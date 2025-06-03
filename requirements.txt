@@ -1,0 +1,14 @@
+# Core Streamlit and dependencies
+streamlit
+Pillow
+numpy
+watchdog  # Hot-reloading
+
+# OpenCV
+opencv-python
+
+# YOLOv8 and PyTorch (with compatibility)
+ultralytics
+torch
+torchvision
+torchaudio
