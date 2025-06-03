@@ -6,7 +6,7 @@ import cv2
 
 def calculate_jaccard_index(box1, box2):
     """
-    Calculate Jaccard Index (IoU) between two bounding boxes.
+    Calculate Jaccard Index (IoU) between 2 bounding boxes.
     
     Args:
         box1, box2: Bounding boxes in format [x1, y1, x2, y2]
